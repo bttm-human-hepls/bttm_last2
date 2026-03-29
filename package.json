@@ -1,0 +1,12 @@
+{
+  "name": "bttm-backend",
+  "version": "1.0.0",
+  "description": "B.T.T.M Backend with Firebase Admin",
+  "main": "api/send-telegram.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
